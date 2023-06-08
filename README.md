@@ -25,8 +25,9 @@ body {
 <br>
 
 # Tailwind Docs Kullanılabilirlik
-Tailwind.CSS framework'te kullanılan class isimleri bulma kolaylığı. Class isimleri bulmak kolay. Site karışık değil.
+Tailwind.CSS framework'te kullanılan class isimleri bulma kolaylığı. Class isimleri bulmak kolay. Site karışık değil. 
 
+<br>
 
 # Custom Class Added
 `tailwind.config.js` dosyasına eklenen bazı stiller ve kullanımı <br>
@@ -52,3 +53,6 @@ module.exports = {
 ```html
 <li class="p-2 text-link-colors"><a href="#">Features</a></li>
 ```
+
+### Responsive Mobile First Yaklaşımı
+320px ve altında çalışmıyor. Kendimiz yeni çözünürlük ekleyerek çözebiliyoruz.
