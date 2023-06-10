@@ -1,5 +1,5 @@
 # Kurulum Aşaması
-Tailwind.CSS kurulum aşaması npm ile ve node.js ile bu adımlar uygulandı. <br>
+Tailwind.CSS kurulum aşaması npm ve node.js ile bu adımlar uygulandı. <br>
 1. ```npm install -D tailwindcss ```
 2. ```npx tailwindcss init```
 
